@@ -1,6 +1,6 @@
 token:
   expiration_time: 864000000
-  secret: user_token_ecommerse
+  secret: user_token_ecommerse_ch
 
 gateway:
   ip: 127.0.0.1
